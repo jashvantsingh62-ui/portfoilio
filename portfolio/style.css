@@ -1,4 +1,4 @@
-.{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -69,7 +69,7 @@ h2{
 }
 
 .skill-box span:hover{
-    background: #38bd8;
+    background: #38bdf8;
     color:black;
 }
 
