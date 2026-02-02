@@ -1,6 +1,6 @@
 //loader
 window.onload = () =>{
-    document: .getelementbyl
+    document.getelementbyl
     d("loader").style.display = "none";
 
 };
@@ -10,9 +10,9 @@ const text = "python full stack developer|dashboard developer";
 let index = 0;
 function typingeffect(){
     if(index <text.length){
-        document: .queyselecto
+        document.queyselecto
         r("typing").innerhtml +=
-        text.charat(index);
+        text.charAt(index);
         index++;
         settimeout(typingeffect,100);
     }
